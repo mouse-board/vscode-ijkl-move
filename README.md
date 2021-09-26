@@ -1,5 +1,29 @@
 # vscode-ijkl-move
 
+Now I only use these
+~~~
+{
+        "key": "alt+k",
+        "command": "cursorDown",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+i",
+        "command": "cursorUp",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+l",
+        "command": "cursorRight",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+j",
+        "command": "cursorLeft",
+        "when": "editorTextFocus"
+    },
+~~~
+
 ~~~
     // vscode-keybindings for navigation with I/J/K/L and additional functionality with surrounding characters 
     // Place your key bindings in this file to overwrite the defaults
