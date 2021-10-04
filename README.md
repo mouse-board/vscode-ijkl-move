@@ -1,4 +1,4 @@
-# vscode-ijkl-move
+# vscode ijkl move
 
 Now I only use these
 ~~~
@@ -23,6 +23,8 @@ Now I only use these
         "when": "editorTextFocus"
     },
 ~~~
+
+But also
 
 ~~~
     // vscode-keybindings for navigation with I/J/K/L and additional functionality with surrounding characters 
@@ -131,3 +133,6 @@ Now I only use these
         "when": "editorTextFocus"
     }
 ~~~
+
+I forgot where I found these,
+Sorry for that :(
