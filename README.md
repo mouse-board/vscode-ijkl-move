@@ -1,7 +1,7 @@
 # vscode ijkl move
 
 Now I only use these
-~~~
+~~~json
 {
         "key": "alt+k",
         "command": "cursorDown",
@@ -26,7 +26,7 @@ Now I only use these
 
 But also
 
-~~~
+~~~json
     // vscode-keybindings for navigation with I/J/K/L and additional functionality with surrounding characters 
     // Place your key bindings in this file to overwrite the defaults
     // ALT + I/J/K/L: up/left/down/right
